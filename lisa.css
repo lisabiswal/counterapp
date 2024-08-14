@@ -1,0 +1,39 @@
+body{
+    background-image: url(purflower.jpg);
+    background-size: cover;
+    text-align: center;
+}
+.h1{
+    font-family: "Matemasie", sans-serif;
+    font-size: 70px;
+    
+}
+.p{
+    
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    margin-top: 2px;
+}
+.btn{
+   width: 150px;
+   height: 50px;
+   background-color: #B279A7;
+   font-weight: bold;
+   font-size: 20px;
+}
+.btn:hover{
+    background-color: #D387AB;
+}
+#num{
+    font-size: 35px;
+}
+#num1{
+    font-size: 35px;
+}
+.by{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+
+}
